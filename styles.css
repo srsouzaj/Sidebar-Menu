@@ -186,7 +186,12 @@ body {
     position: relative;
     padding: 10px 6px;
     height: 60px;
-    background: #8ED7C6
+    background: none;
+    transition: all 0.5s ease;
+}
+
+.sidebar.active .profile_content .profile {
+    background: #8ED7C6;
 }
 
 .profile_content .profile .profile_details {
@@ -232,10 +237,15 @@ body {
     font-size: 20px;
     border-radius: 12px;
     text-align: center;
+    transition: all 0.5s ease;
+    background: #8ED7C6;
+    color: #fff;
 }
 
 .sidebar.active .profile #log_out {
     left: 88%;
+    background: none;
+    color: #fff;
 }
 
 .home_content {
