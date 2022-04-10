@@ -1,4 +1,4 @@
-# ![vet](D:\Users\Jorge\Documents\TI\PROJETOS\Rocketseat\www\discover\Sidebar Menu\public\vet.svg)Criação de uma tela de Login com HTML, CSS
+# Criação de uma tela de Login com HTML, CSS
 
 
 
