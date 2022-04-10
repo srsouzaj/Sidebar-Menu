@@ -1,6 +1,4 @@
-# Criação de uma tela de Login com HTML, CSS
-
-
+# Criação de uma Sidebar Menu com HTML, CSS e JS
 
 ## :rocket: Tecnologias ##
 
